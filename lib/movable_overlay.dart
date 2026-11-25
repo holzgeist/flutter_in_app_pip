@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_in_app_pip/pip_params.dart';
 import 'package:flutter_in_app_pip/pip_view_corner.dart';
 import 'package:flutter_in_app_pip/pip_view_edge.dart';

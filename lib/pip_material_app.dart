@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_in_app_pip/movable_overlay.dart';
 import 'package:flutter_in_app_pip/picture_in_picture.dart';
 import 'package:flutter_in_app_pip/pip_params.dart';
